@@ -26,7 +26,7 @@ global.ownername = 'ᴀʟᴘ𝟺ᴀ ʙᴏᴛ sᴇʀᴠɪᴄᴇ'
 global.botname = 'ᴀʟᴇxɪᴄᴀ'
 global.footer = '©ᴀʟᴘ𝟺ᴀ ʙᴏᴛ sᴇʀᴠɪᴄᴇInc.'
 global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
+global.region = 'Sri lanka, Western province, Gampaha'
 global.sc = 'wa.me/94750136837'
 global.myweb = 'https://chat.whatsapp.com/BW5EZNrlJJJA1sNWcIlz6s'
 global.packname = 'ᴀʟᴇxɪᴄᴀ'
@@ -37,13 +37,13 @@ global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    botAdmin: 'Bot පළමුව Admin විය යුතුය!',
+    owner: ' විශේෂාංගය alp4a team එක සඳහා පමණි!',
+    group: ' විශේෂාංගය කණ්ඩායම් සඳහා පමණක් භාවිතා වේ!',
+    private: 'මෙම පුද්ගලික කතාබස් සඳහා පමණක් භාවිතා කරන විශේෂාංග!',
+    bot: 'මෙම විශේෂාංගය Bot සඳහා පමණි',
+    wait: 'චුට්ටක් ඉන්න...',
+    error: 'හුටාහුටා! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
